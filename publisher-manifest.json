@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2c47b8c5c1bd6d84775f8877",
+  "owner": "m5edqakt",
+  "repo": "page-9642ac2cf03b4550a5d658d2",
+  "title": "无界云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9642ac2cf03b4550a5d658d2",
+      "a": "无界云",
+      "b": "机场官网线路发布页",
+      "entity": "无界云",
+      "brand": "无界云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8c54975495cc143c03365043c933f6479cdd917c51651441649982fc01575bb7",
+      "content": {
+        "primary_entity": "无界云",
+        "keyword1": "无界云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，无界云提供三档月付与年付套餐，覆盖每月 100GB 至 1000GB 流量、3 台至 20 台设备在线需求，旗舰版搭载 IPLC 专线游戏加速优化，团队版支持企业定制路由，订阅可在 Clash、Shadowrocket、Surge 等客户端按文档导入。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖个人到团队",
+          "AI_HERO_INTRO": "无界云按设备数量与月流量划分基础版、旗舰版和团队版，月付灵活、年付更省，旗舰版与团队版提供 IPLC 专线与 VIP 高带宽节点，适合日常流媒体和跨境办公场景。",
+          "AI_VISUAL_TITLE": "无界云套餐速览",
+          "AI_HIGHLIGHT_1": "月付最低 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付立省两个月费用",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "按设备数量和月流量选套餐，再按系统选择客户端。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，流媒体重度用户建议旗舰版以上。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付随时调整，年付在月付总价基础上再省两个月费用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统搭配对应客户端，以订阅导入方式配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按需选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再按客户端文档完成订阅导入。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据在线设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统版本与客户端类型，参考对应平台配置说明。",
+          "AI_STEP_TITLE_3": "导入订阅使用",
+          "AI_STEP_TEXT_3": "获取订阅链接后，在 Clash、Shadowrocket、Surge 等客户端中按文档导入。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐差异、设备限制、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台设备、每月 100GB 流量；旗舰版提升到 5 台设备、300GB 流量，并包含 IPLC 专线；团队版支持 20 台设备和 1000GB 流量，另有企业定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150 相当于每月约 ¥12.5，旗舰版年付 ¥350、团队版年付 ¥850，均低于按月支付累计总额，相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后获取订阅链接，在 Clash、Shadowrocket、Surge 等客户端中选择从 URL 导入，粘贴链接更新配置即可，具体步骤可参考对应客户端文档。",
+          "AI_FAQ_QUESTION_4": "最多支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_4": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按套餐区分，超量需要升级或减少同时连接数量。",
+          "AI_FAQ_QUESTION_5": "如何从基础版升级到旗舰版？",
+          "AI_FAQ_ANSWER_5": "在账户内选择升级套餐，补足差价后新套餐权益即时生效，设备数和月流量按旗舰版标准执行，具体以账户内操作流程为准。",
+          "AI_CLOSING_TITLE": "按需选档，即刻订阅",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，按客户端文档导入订阅开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aiflorida.cn",
+    "host": "aiflorida.cn"
+  },
+  "file_hashes": {
+    "index.html": "6515df19754755c6887f53f8d883022642dbc40f501f3b38464123bc2b86e80a",
+    "sitemap.xml": "712058e170441758e6837b05a7cffe3bae6f472b912979726b8d98b8a96632e8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "265f51911318ec925804707dd95f342648b35199f88c77c9d2ee99146bd49c79",
+    "robots.txt": "669e9d09955d7500225f5cb88a0201ddb0291b2fe5f12af1f29096adc6877520",
+    "d68c7229cf538aef7054d3bf5a2962ba.txt": "268cd1290a2ea43fcb74be0f764486b7bb9c15e48b06e66a8d8620b1f46daf73"
+  },
+  "revision": "dd7d59e551c79d0afe994dd527ccd26834c272345ff99b72b14cccec70e94c13"
+}
